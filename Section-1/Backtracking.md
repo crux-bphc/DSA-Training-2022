@@ -7,7 +7,7 @@ Because we are checking incrementally, we make use of recursion to implement it.
 - [GfG](https://www.geeksforgeeks.org/backtracking-algorithms/)
 - [Programiz](https://www.programiz.com/dsa/backtracking-algorithm)
 
-## Problems
+## Some Standard Problems
 
 - [Maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)
 - [Knight's Tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/)

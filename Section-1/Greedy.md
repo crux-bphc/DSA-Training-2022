@@ -7,7 +7,7 @@ for all problems, however, it can be very powerful when it does. They are genera
 
 - [Hackerearth](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/)
 
-## Problems
+## Practice Problems
 
 - [Leetcode 561](https://leetcode.com/problems/array-partition/)
 - [Codeforces 1689B](https://codeforces.com/problemset/problem/1689/B)
